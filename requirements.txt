@@ -1,4 +1,6 @@
-langchain-core
-langgraph>0.2.27
+langchain-text-splitters
+langchain-community
+langgraph
 langchain[aws]
 langchain-qdrant
+beautifulsoup4
